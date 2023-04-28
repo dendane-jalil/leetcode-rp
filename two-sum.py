@@ -1,4 +1,4 @@
-# this  is the two sum problem with the a refrehce of
+# this  is the two sum problem with a reference of
 # 1. Two Sum in leet code , its an easy one  with a
 #  time complexity of O(n) and a space complexity of O(n)
 
