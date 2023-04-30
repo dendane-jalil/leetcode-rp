@@ -11,3 +11,5 @@ class Solution:
                 h[num] = i
             else:
                  return[h[n], i]
+
+print(h)
